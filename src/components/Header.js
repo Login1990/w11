@@ -1,8 +1,9 @@
 import React from 'react'
+import AppBarElement from './AppBarElement'
 
 function Header() {
   return (
-    <div>Header</div>
+    <AppBarElement />
   )
 }
 
